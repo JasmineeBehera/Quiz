@@ -1,4 +1,4 @@
-// Selecting all required elements
+
 const startBtn = document.querySelector(".start_btn button");
 const infoBox = document.querySelector(".info_box");
 const exitBtn = infoBox.querySelector(".buttons .quit");
