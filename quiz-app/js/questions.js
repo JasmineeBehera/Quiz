@@ -1,4 +1,4 @@
-// Questions array
+
 const questions = [
   {
     numb: 1,
